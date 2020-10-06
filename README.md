@@ -1,0 +1,1 @@
+# globaltools-odoo.sh
