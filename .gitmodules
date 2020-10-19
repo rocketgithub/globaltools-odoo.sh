@@ -2,3 +2,6 @@
 	path = l10n_gt_extra
 	url = git@github.com:rocketgithub/l10n_gt_extra.git
 	branch = 13.0
+[submodule "hr_expense_invoice"]
+	path = hr_expense_invoice
+	url = git@github.com:rocketgithub/hr_expense_invoice.git
