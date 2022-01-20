@@ -13,3 +13,7 @@
 	path = fel_gt
 	url = git@github.com:rocketgithub/fel_gt.git
 	branch = 13.0
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = https://github.com/rocketgithub/conciliacion_bancaria.git
+	branch = 13.0
